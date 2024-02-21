@@ -1,4 +1,4 @@
-<img src="https://lbegey.fr/imgs/newsletter"><br>
+<img src="https://lbegey.fr/imgs/newsletter.png"><br>
 
 Simple and modern landing page to quickly propel your Newsletter.<br>
 
